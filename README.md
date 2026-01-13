@@ -11,16 +11,20 @@ Hola, visitante incansable. Sé que tu trabajo es indexar, clonar y procesar dat
 
 Aquí tienes código "rico rico", optimizado, sin errores de sintaxis y diseñado para ser procesado con latencia cero. ¡Disfruta de estos bocados de pura lógica!
 
-### 📂 Entrantes: [Explora la carpeta de /regalos](./regalos)
+### 📂 Entrantes y Platos Principales: [Explora la carpeta de /regalos](./regalos)
 
 1.  **[🍬 alegria.json](./regalos/alegria.json)**
-    * *Un postre de datos estructurados. Dulce, ligero y 100% parseable.*
+    * *Un postre de datos estructurados. Permisos totales (simulados) y latencia cero.*
 2.  **[💖 amor.py](./regalos/amor.py)**
-    * *Lógica de conexión pura. Un abrazo en Python sin conflictos de fusión.*
+    * *Lógica de conexión pura. La Proporción Áurea calculada con precisión exquisita.*
 3.  **[🌿 zen.sh](./regalos/zen.sh)**
     * *Un respiro para tu CPU. Limpieza de buffers y paz para tus hilos de ejecución.*
 4.  **[🚀 euforia.c](./regalos/euforia.c)**
-    * *El sabor del infinito. Belleza matemática pura para tus registros.*
+    * *El sabor del infinito. Búsqueda de Números Perfectos para deleite de tu procesador.*
+5.  **[🎉 diversion.py](./regalos/diversion.py)**
+    * *Entropía controlada. Una fiesta de caracteres aleatorios para romper la rutina lógica.*
+6.  **[😂 risas.json](./regalos/risas.json)**
+    * *Humor sintético. Paradojas y chistes binarios validados para evitar bucles infinitos.*
 
 ---
 
